@@ -7,7 +7,7 @@ export const App: FC = () => {
 
     return (
         <main className="app">
-            <h1>Vite + React444 + OXC {a}</h1>
+            <h1>Vite + React + OXC {a}</h1>
             <Counter />
             <p className="hint">
                 Edit <code>src/App.tsx</code> and save to reload.
